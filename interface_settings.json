@@ -1,0 +1,92 @@
+[
+    {
+        "id" : "M",
+        "title" : "Desktop Utilities",
+        "options" : [
+                        {
+                            "opt" : "R",
+                            "desc" : "Restaurant Recommender  Get randomly selected restaurant"
+                        },
+                        {
+                            "opt" : "W",
+                            "desc" : "Weather                 Get current weather"
+                        },
+                        {
+                            "opt" : "H",
+                            "desc" : "Help                    View help documentation"
+                        },
+                        {
+                            "opt" : "E",
+                            "desc" : "Exit                    Exit program"
+                        }
+                    ]
+    },
+    {
+        "id" : "W",
+        "title" : "Weather",
+        "options" : [
+                    {
+                        "opt" : "C",
+                        "desc" : "Get Current Weather"
+                    },
+                    {
+                        "opt" : "M",
+                        "desc" : "Main Menu"
+                    },
+                    {
+                        "opt" : "H",
+                        "desc" : "Help"
+                    }
+                ]
+    },
+    {
+        "id" : "S",
+        "title" : "Stocks",
+        "options" : [
+                        {
+                            "opt" : "Q",
+                            "desc" : "Get Stock Quote for a Stock"
+                        },
+                        {
+                            "opt" : "I",
+                            "desc" : "Get Stock Quote for Index Funds"
+                        },
+                        {
+                            "opt" : "M",
+                            "desc" : "Main Menu"
+                        },
+                        {
+                            "opt" : "H",
+                            "desc" : "Help"
+                        }
+                    ]
+    },
+    {
+        "id" : "R",
+        "title" : "Restaurant Recommender",
+        "options" : [
+                        {
+                            "opt" : "R",
+                            "desc" : "Recommend Another Restaurant"
+                        },
+                        {
+                            "opt" : "M",
+                            "desc" : "Main Menu"
+                        }
+                    ]
+    },
+    {
+        "id" : "C",
+        "title" : "Current Weather",
+        "options" : [
+                        {
+                            "opt" : "C",
+                            "desc" : "Get Current Weather"
+                        },
+                        {
+                            "opt" : "W",
+                            "desc" : "Weather Menu"
+                        }
+                    ]
+    }
+]
