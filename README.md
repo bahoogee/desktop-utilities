@@ -4,7 +4,7 @@ Author: Joshua Moore
 Class:  CS 361
 Desc:   Microservice that manages a list of pet health goals that is held in an external json file.
 
-# COMMUNICATION CONTRACT:
+## COMMUNICATION CONTRACT:
 
 The Pet Health Goals microservice uses the ZeroMQ message broker to facilitate communication between the microservice and calling program.  This microservice also relies on a json called pet_health_goals.json with a unnamed list within to be available in the common directory.
 
