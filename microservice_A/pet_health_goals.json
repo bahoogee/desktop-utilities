@@ -1,0 +1,20 @@
+[
+    {
+        "goal_num": 1,
+        "pet_name": "Rover",
+        "pet_goal": "something else",
+        "goal_date": "2024-11-01"
+    },
+    {
+        "goal_num": 2,
+        "pet_name": "someone",
+        "pet_goal": "something",
+        "goal_date": "2024-11-14"
+    },
+    {
+        "goal_num": 3,
+        "pet_name": "Fido",
+        "pet_goal": "3 walks per day",
+        "goal_date": "2025-11-15"
+    }
+]
